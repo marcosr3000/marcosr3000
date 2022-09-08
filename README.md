@@ -1,5 +1,11 @@
 ## Hello! I'm Marcos, Front-end developer! 👋
 
+<br>
+Welcome to my Github profile! Each repository has a README.md with description and highlights 🔆 of my projects. Feel free to contact me on social media!
+
+<br>
+<br>
+
 <div style="display: inline_block">
   <h3>Main techs</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/> 
